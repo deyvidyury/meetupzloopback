@@ -1,0 +1,9 @@
+{
+  "db": {
+    "url": "mongodb+srv://deyvidyury:5366_yury@tests-bt9lh.mongodb.net/test?retryWrites=true",
+    "name": "tests",
+    "connector": "mongodb",
+    "user": "deyvidyury",
+    "password": "5366yury"
+  }
+}
